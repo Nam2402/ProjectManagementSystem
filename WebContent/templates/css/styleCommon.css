@@ -1,0 +1,137 @@
+.content-wrapper{
+	background: rgb(229, 229, 229);
+	max-height:900px;
+}
+.alert1{
+	font-size: larger;
+	margin-bottom: 0px;
+	background:none; 
+	border:none; 
+	color: #333333 !important;
+}
+.fa1{
+	font-size:22px;
+}
+.lb_name{
+	font-weight: 600;
+	font-size: 26px;
+}
+.card{
+	height:auto;
+	margin-top:14px;
+	border-radius: 5px;
+	box-shadow: 2px 2px #c8c5c5;
+}
+.card1{
+	background: none;
+	border: none;
+}
+.divButtons{
+	text-align:center;
+	margin-top: 30px;
+	margin-bottom: 32px;
+	
+}
+.btnA{
+	width:100px; 
+	height:35px; 
+	font-size: 15px; 
+	border:1px solid white;
+	vertical-align: middle;
+}
+.btnB{
+	width:100px; 
+	height:35px; 
+	font-size: 15px; 
+	border:1px solid white;
+	border-radius: 5px;
+	vertical-align: middle;
+}
+.formTable{
+
+}
+.card{
+	box-shadow: none;
+}
+.card-body{
+	padding:0;
+}
+.myTable{
+	background: white;
+	border: 1px solid #e9ecef;
+	margin-bottom: 1rem;
+}
+.divBtnAdd{
+	margin-bottom: 10px;
+}
+.btnAdd{
+	border: none;
+}
+.zmdi-edit{
+	vertical-align:middle; 
+	color:color: rgb(42, 142, 205);
+	font-size:20px; 
+	display:inline-block; 
+	font: normal normal normal 14px/1 'Material-Design-Iconic-Font';
+}
+.btnEdit1{
+	margin-left:auto; 
+	margin-right:0;
+	padding:0;
+	border-radius:100%;
+	background:rgb(209, 237, 255);
+	border:none;
+	height:30px;
+	width:30px;
+}
+.btnDel1{
+	margin-left:15px;
+	margin-right:auto;
+	text-align: center;
+	padding:0;
+	border-radius:100%;
+	background: rgb(252, 217, 221); 
+	border:none;
+	height:30px;
+	width:30px;
+}
+.zmdi-delete{
+	vertical-align:middle; 
+	color: rgb(203, 49, 63);
+	font-size:20px; 
+	display:inline-block; 
+	font: normal normal normal 14px/1 'Material-Design-Iconic-Font';
+}
+.btnAdd{
+	font-size:medium;
+	width:auto;
+}
+.btn-danger{
+	display: none; 
+	margin-left: 10px; 
+	margin-bottom: 5px;
+	border:none;
+}
+
+table.myTable tbody tr:hover{
+	background:#F0F0F0;
+}
+.box-search{
+	padding: 5px 10px;
+	border: 1px solid #C9C9C9;
+	box-shadow: 1px 1px #b9b9b9;
+	color: #555;
+}
+@media only screen and (min-width: 1000px)and (max-width:1100px) {
+	.content-wrapper{
+		margin-left: 162px;
+	}
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+.divForm{
+	margin-bottom: 20px;
+}
+
+
+th, .no, .time, .date, .duration, .trainer, .btnRegister{
+	text-align: center;
+}
+
+.btn{
+	color: white;
+	background:#2e9ade;
+	font-size: 12px;
+	width:70px;
+}
+.btncancel{
+	color: white;
+	background:#ba2e2e;
+	font-size: 12px;
+	width:70px;
+}
+
+.btn1{
+	color: rgb(52, 58, 64);
+	background: rgb(250, 187, 110);
+	font-size: 12px;	
+}
+.btnRegister{
+	max-width: 100px;
+}
+
+.btn:hover{
+	color:white;
+}
+
+.register{
+	background: black;
+}

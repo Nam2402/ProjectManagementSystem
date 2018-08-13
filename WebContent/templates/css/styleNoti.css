@@ -1,0 +1,76 @@
+.divNoti{
+	height: 800px;
+}
+.box-noti{
+	display: block;
+	margin: auto;
+	height: auto;
+	width:600px;
+	border-radius: 15px 15px 15px;
+	border: 2px solid rgb(177, 177, 177);
+}
+
+.labelNoti{
+	height: 80px;
+	margin: auto;
+}
+
+.space{
+	height: 0.5px;
+	border: 1px solid rgb(177, 177, 177);
+}
+
+.divTitle{
+	color: rgb(52, 58, 64);
+	font-size: 20px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 26px;
+
+}
+
+.divDate{
+	
+	color: rgb(177, 177, 177);
+	font-size: 10px;
+	margin-left: 20px;
+	margin-top: 26px;
+
+}
+
+.date{
+	border: 1px solid rgb(212, 237, 218);
+	padding: 0px 5px 0px;
+	border-radius: 10px;
+	font-size:13px;
+}
+
+.divContentNoti{
+	padding: 20px 20px 20px;
+}
+
+.contentNoti{
+	color: rgb(138, 138, 138);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
